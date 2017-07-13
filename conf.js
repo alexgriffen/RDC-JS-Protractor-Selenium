@@ -1,6 +1,6 @@
 exports.config = {
 
-    seleniumAddress: 'http://us1.appium.testobject.com/wd/hub',
+    seleniumAddress: 'http://eu1.appium.testobject.com/wd/hub',
     specs: ['specs/*spec.js'],
 
     // restartBrowserBetweenTests: true,
